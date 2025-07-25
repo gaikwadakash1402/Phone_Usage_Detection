@@ -1,0 +1,10 @@
+# Ignore virtual environments
+myenv/
+.env/
+venv/
+
+# Ignore cache and system files
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
